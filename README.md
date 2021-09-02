@@ -1,3 +1,7 @@
 # User-Handbook
-Hello!
-How are you doing today?
+
+## Getting started
+
+## Opening the box
+
+## First Operations
